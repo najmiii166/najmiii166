@@ -15,9 +15,8 @@ I am also learning AI Agents and love solving real-world problems.
 ---
 
 ## 📫 Contact
-- Email:najmiii166@gmail.com
-- LinkedIn:https://www.linkedin.com/in/najma-mohamed-4481b6334/
-
+- 📧 Email: [najmii166@gmail.com](mailto:najmii166@gmail.com)
+- 💼 LinkedIn: [Najma Abdi](https://www.linkedin.com/in/najma-mohamed-4481b6334/)
    ---
 
 ## ⚡ Fun Fact
