@@ -8,9 +8,7 @@ Full-Stack Developer (MERN) | Mobile Developer (React Native)
 ## 💡 About Me
 I am a passionate developer specializing in MERN Stack and React Native.
 
-Currently building a Rental Property Platform for Mogadishu.
-
-I am also learning AI Agents and love solving real-world problems.
+I am also learning Data Science 
 
 ---
 
